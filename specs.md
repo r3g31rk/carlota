@@ -2,21 +2,17 @@ Particpation cagnotte
 
 ## specs
 
-- devant chez elle 7x4 (porte entrée + fenêtre de gauche + fenêtre de droite), depuis placard entré à droite jusqu'à la fenêtre de chambre
-  - une dalle béton ou lit de sable
-  - une terrasse en dalle sur plots
-  - ente 6 et 9 cm de hauteur (vers la route)
+### devant
 
-- derrière côté prairie (dalle de béton 6x4)
-  - veranda bois + polycarbonate (pour protéger l'accès aux 2 portes de baie vitrée)
-  - un store banne au dessus de la baie vitrée
+3500 x 7200 = 25,2 m²
 
-- arrière de la maison, le long de la clôture brise vent
-  - plantation de bambous (ou autre) en // de la route côté gauche qd on regarde en face depuis l'extérieur
-  - un joli plateau de table carreaux de bois sur son pied de fer forgé
+### derrière
 
-- devant de la maison, un petit couloir de béton + chèvrefeuille à gauche de la porte
+~ 6000 x 4300 = 25,8 m²
 
+1200 gauche > 1900 baie vitrée > 1750 milieu > porte 900 > droite 200
+
+baie vitrée: H 2250 x L 1900 x enfoncement 190 (marche devant dépasse de 10 cm par rapport à la façade et fait 8 cm d'épaisseur)
 
 ## options
 
